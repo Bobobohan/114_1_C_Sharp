@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Turorial_2_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf2bf0f23ce21be7948adc1ebbb8d4accd09c33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203e10173133da824d1590c3c822cfbd921ea3b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Turorial_2_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Turorial_2_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

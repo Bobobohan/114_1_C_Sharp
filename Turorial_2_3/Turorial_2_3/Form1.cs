@@ -6,5 +6,20 @@ namespace Turorial_2_3
         {
             InitializeComponent();
         }
+
+        private void btn_italian_Click(object sender, EventArgs e)
+        {
+            label_translation.Text = "Buongiorno";
+        }
+
+        private void btn_spanish_Click(object sender, EventArgs e)
+        {
+            label_translation.Text = "Buenos dias";
+        }
+
+        private void btn_germany_Click(object sender, EventArgs e)
+        {
+            label_translation.Text = "guten Morgen";
+        }
     }
 }

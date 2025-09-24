@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\bin\Debug\net8.0-windows\Turorial_2_3.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\bin\Debug\net8.0-windows\Turorial_2_3.deps.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\bin\Debug\net8.0-windows\Turorial_2_3.runtimeconfig.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\bin\Debug\net8.0-windows\Turorial_2_3.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\bin\Debug\net8.0-windows\Turorial_2_3.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.Form1.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.AssemblyInfo.cs
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.sourcelink.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\refint\Turorial_2_3.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\Turorial_2_3.genruntimeconfig.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\Turorial_2_3\Turorial_2_3\obj\Debug\net8.0-windows\ref\Turorial_2_3.dll
