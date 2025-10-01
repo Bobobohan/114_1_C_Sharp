@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\net8.0-windows\Tutorial_3_1.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\net8.0-windows\Tutorial_3_1.deps.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\net8.0-windows\Tutorial_3_1.runtimeconfig.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\net8.0-windows\Tutorial_3_1.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\net8.0-windows\Tutorial_3_1.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.Form1.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.AssemblyInfo.cs
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.sourcelink.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\refint\Tutorial_3_1.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\Tutorial_3_1.genruntimeconfig.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\net8.0-windows\ref\Tutorial_3_1.dll
