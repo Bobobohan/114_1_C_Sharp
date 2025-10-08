@@ -41,7 +41,7 @@
             // originalPriceTextBox
             // 
             this.originalPriceTextBox.Location = new System.Drawing.Point(258, 22);
-            this.originalPriceTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.originalPriceTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.originalPriceTextBox.Name = "originalPriceTextBox";
             this.originalPriceTextBox.Size = new System.Drawing.Size(148, 29);
             this.originalPriceTextBox.TabIndex = 0;
@@ -49,7 +49,7 @@
             // discountPercentageTextBox
             // 
             this.discountPercentageTextBox.Location = new System.Drawing.Point(258, 58);
-            this.discountPercentageTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.discountPercentageTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.discountPercentageTextBox.Name = "discountPercentageTextBox";
             this.discountPercentageTextBox.Size = new System.Drawing.Size(148, 29);
             this.discountPercentageTextBox.TabIndex = 1;
@@ -97,7 +97,7 @@
             // calculateButton
             // 
             this.calculateButton.Location = new System.Drawing.Point(96, 173);
-            this.calculateButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.calculateButton.Margin = new System.Windows.Forms.Padding(4);
             this.calculateButton.Name = "calculateButton";
             this.calculateButton.Size = new System.Drawing.Size(112, 54);
             this.calculateButton.TabIndex = 6;
@@ -108,7 +108,7 @@
             // exitButton
             // 
             this.exitButton.Location = new System.Drawing.Point(218, 173);
-            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(112, 54);
             this.exitButton.TabIndex = 7;
@@ -120,7 +120,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(479, 301);
+            this.ClientSize = new System.Drawing.Size(553, 359);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.calculateButton);
             this.Controls.Add(this.salePriceLabel);
@@ -129,7 +129,7 @@
             this.Controls.Add(this.originalPricePromptLabel);
             this.Controls.Add(this.discountPercentageTextBox);
             this.Controls.Add(this.originalPriceTextBox);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Sale Price Calculator";
             this.ResumeLayout(false);

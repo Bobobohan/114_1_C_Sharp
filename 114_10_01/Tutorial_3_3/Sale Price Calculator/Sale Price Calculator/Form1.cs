@@ -19,7 +19,21 @@ namespace Sale_Price_Calculator
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-            
+            // 加入計算特價
+            decimal originalPrice;
+            decimal discountPercentage;
+            decimal salePrice;
+
+            // 原價和折扣%轉換為demical
+            originalPrice = decimal.Parse(originalPriceTextBox.Text);
+            discountPercentage = decimal.Parse(discountPercentageTextBox.Text);
+
+            // 計算特價
+            salePrice = originalPrice * (1 - discountPercentage / 100.0m);
+
+            // 顯示特價格式化為貨幣形式
+            salePriceLabel.Text = salePrice.ToString("C");
+
         }
 
         private void exitButton_Click(object sender, EventArgs e)
