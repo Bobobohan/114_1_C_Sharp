@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\net8.0-windows\MultipleConditionDemo.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\net8.0-windows\MultipleConditionDemo.deps.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\net8.0-windows\MultipleConditionDemo.runtimeconfig.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\net8.0-windows\MultipleConditionDemo.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\net8.0-windows\MultipleConditionDemo.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.Form1.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.AssemblyInfo.cs
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.sourcelink.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\refint\MultipleConditionDemo.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\MultipleConditionDemo.genruntimeconfig.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\net8.0-windows\ref\MultipleConditionDemo.dll
