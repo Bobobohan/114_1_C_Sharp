@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CC61714A-8CBE-48A8-80DE-704A6239F4BE}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC61714A-8CBE-48A8-80DE-704A6239F4BE}|LoginDemo\\LoginDemo.csproj|c:\\users\\m303\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_c_sharp\\114_10_29\\logindemo\\logindemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CC61714A-8CBE-48A8-80DE-704A6239F4BE}|LoginDemo\\LoginDemo.csproj|C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_10_29\\LoginDemo\\logindemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC61714A-8CBE-48A8-80DE-704A6239F4BE}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_10_29\\LoginDemo\\LoginDemo\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "LoginDemo\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T04:42:03.299Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2025-10-29T04:42:03.299Z"
             }
           ]
         }
