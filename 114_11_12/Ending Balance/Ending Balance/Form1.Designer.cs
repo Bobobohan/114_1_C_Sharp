@@ -78,7 +78,7 @@
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.AutoSize = true;
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(60, 294);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(60, 445);
             this.outputDescriptionLabel.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
             this.outputDescriptionLabel.Size = new System.Drawing.Size(174, 32);
@@ -88,7 +88,7 @@
             // endingBalanceLabel
             // 
             this.endingBalanceLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.endingBalanceLabel.Location = new System.Drawing.Point(351, 280);
+            this.endingBalanceLabel.Location = new System.Drawing.Point(346, 434);
             this.endingBalanceLabel.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.endingBalanceLabel.Name = "endingBalanceLabel";
             this.endingBalanceLabel.Size = new System.Drawing.Size(280, 54);
@@ -97,7 +97,7 @@
             // 
             // calculateButton
             // 
-            this.calculateButton.Location = new System.Drawing.Point(47, 353);
+            this.calculateButton.Location = new System.Drawing.Point(53, 501);
             this.calculateButton.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.calculateButton.Name = "calculateButton";
             this.calculateButton.Size = new System.Drawing.Size(212, 57);
@@ -108,7 +108,7 @@
             // 
             // clearButton
             // 
-            this.clearButton.Location = new System.Drawing.Point(275, 353);
+            this.clearButton.Location = new System.Drawing.Point(281, 501);
             this.clearButton.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.clearButton.Name = "clearButton";
             this.clearButton.Size = new System.Drawing.Size(212, 57);
@@ -119,7 +119,7 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(503, 353);
+            this.exitButton.Location = new System.Drawing.Point(509, 501);
             this.exitButton.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(212, 57);
@@ -134,14 +134,14 @@
             this.detailListBox.ItemHeight = 32;
             this.detailListBox.Location = new System.Drawing.Point(66, 159);
             this.detailListBox.Name = "detailListBox";
-            this.detailListBox.Size = new System.Drawing.Size(560, 100);
+            this.detailListBox.Size = new System.Drawing.Size(560, 260);
             this.detailListBox.TabIndex = 11;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(752, 470);
+            this.ClientSize = new System.Drawing.Size(752, 617);
             this.Controls.Add(this.detailListBox);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.clearButton);

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\",
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|c:\\users\\m303\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_c_sharp\\114_11_12\\ending balance\\ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|solutionrelative:ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|c:\\users\\m303\\downloads\\114_1_c_sharp_tutorial-main\\chapter 05\\tutorial 5-1\\ending balance\\ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CE3FCE43-183A-4464-B2F1-5EBCEE4484E3}|Ending Balance\\Ending Balance.csproj|solutionrelative:ending balance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\Ending Balance\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\Ending Balance\\Form1.cs",
               "RelativeDocumentMoniker": "Ending Balance\\Form1.cs",
-              "ToolTip": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\Ending Balance\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\Ending Balance\\Form1.cs",
               "RelativeToolTip": "Ending Balance\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywCwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T05:59:14.98Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\Ending Balance\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\Ending Balance\\Form1.cs",
               "RelativeDocumentMoniker": "Ending Balance\\Form1.cs",
-              "ToolTip": "C:\\Users\\m303\\Downloads\\114_1_C_Sharp_Tutorial-main\\Chapter 05\\Tutorial 5-1\\Ending Balance\\Ending Balance\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\114_1_C_Sharp\\114_11_12\\Ending Balance\\Ending Balance\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Ending Balance\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T05:59:09.845Z",
