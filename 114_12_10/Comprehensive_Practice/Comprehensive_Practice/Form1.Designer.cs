@@ -39,7 +39,7 @@
             textBox_exam2 = new TextBox();
             textBox_exam3 = new TextBox();
             btnShowResult = new Button();
-            button1 = new Button();
+            btnExit = new Button();
             SuspendLayout();
             // 
             // label1
@@ -143,22 +143,23 @@
             btnShowResult.UseVisualStyleBackColor = true;
             btnShowResult.Click += btnShowResult_Click;
             // 
-            // button1
+            // btnExit
             // 
-            button1.Font = new Font("Microsoft JhengHei UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 136);
-            button1.Location = new Point(562, 354);
-            button1.Name = "button1";
-            button1.Size = new Size(212, 84);
-            button1.TabIndex = 11;
-            button1.Text = "離開";
-            button1.UseVisualStyleBackColor = true;
+            btnExit.Font = new Font("Microsoft JhengHei UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 136);
+            btnExit.Location = new Point(562, 354);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(212, 84);
+            btnExit.TabIndex = 11;
+            btnExit.Text = "離開";
+            btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += button1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(11F, 23F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            Controls.Add(btnExit);
             Controls.Add(btnShowResult);
             Controls.Add(textBox_exam3);
             Controls.Add(textBox_exam2);
@@ -190,6 +191,6 @@
         private TextBox textBox_exam2;
         private TextBox textBox_exam3;
         private Button btnShowResult;
-        private Button button1;
+        private Button btnExit;
     }
 }

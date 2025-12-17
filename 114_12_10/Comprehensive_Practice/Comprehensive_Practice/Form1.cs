@@ -14,8 +14,13 @@ namespace Comprehensive_Practice
 
         private void btnShowResult_Click(object sender, EventArgs e)
         {
-            string surname = 
+            string surname =
 
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
