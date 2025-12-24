@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\bin\Debug\net8.0-windows\樂透號碼產生器.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\bin\Debug\net8.0-windows\樂透號碼產生器.deps.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\bin\Debug\net8.0-windows\樂透號碼產生器.runtimeconfig.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\bin\Debug\net8.0-windows\樂透號碼產生器.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\bin\Debug\net8.0-windows\樂透號碼產生器.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.Form1.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.AssemblyInfo.cs
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.sourcelink.json
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\refint\樂透號碼產生器.dll
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\樂透號碼產生器.genruntimeconfig.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_C_Sharp\A112223017_final\樂透號碼產生器\樂透號碼產生器\obj\Debug\net8.0-windows\ref\樂透號碼產生器.dll

@@ -14,7 +14,7 @@ namespace 樂透號碼產生器
 
             numberLabels = new Label[] { label1, label2, label3, label4, label5 };
             label_result.Text = "請先產生號碼，再讀取檔案對獎";
-            btnOpen.Enabled = false; // 強制流程：必須先產生號碼才能開獎
+            btnOpen.Enabled = false; // 須先產生號碼才能開獎
         }
        
         // 產生號碼按鈕事件        
@@ -22,7 +22,6 @@ namespace 樂透號碼產生器
         {
             GenerateRandomNumbers();
 
-            // 顯示號碼到介面上
             for (int i = 0; i < 5; i++)
             {
                 numberLabels[i].Text = userNumbers[i].ToString("00"); // 格式化為兩位數
@@ -174,8 +173,7 @@ namespace 樂透號碼產生器
         {
             int matchCount = 0;
             string matchedNumbers = "";
-
-            // 雙層迴圈比對：拿每一個使用者號碼，去跟所有開獎號碼比
+                        
             for (int i = 0; i < 5; i++) // 使用者號碼迴圈
             {
                 // 先重置標籤顏色
@@ -201,12 +199,8 @@ namespace 樂透號碼產生器
             else if (matchCount == 2) prizeMessage = "肆獎";
             else prizeMessage = "沒中獎，再接再厲！";
 
-            label_result.Text = $"中獎號碼數：{matchCount}\n" +
-                             $"中獎號碼：{matchedNumbers}\n" +
-                             $"結果：{prizeMessage}";
-
+            label_result.Text = $"中獎號碼數：{matchCount}\n" + $"中獎號碼：{matchedNumbers}\n" + $"結果：{prizeMessage}";
             MessageBox.Show(prizeMessage, "對獎結果", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
-

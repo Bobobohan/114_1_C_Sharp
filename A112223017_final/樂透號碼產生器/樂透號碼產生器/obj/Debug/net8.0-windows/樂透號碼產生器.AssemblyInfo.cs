@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("樂透號碼產生器")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b52f86b21f33b78f927adced7c7c83423bf40c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a1996d7cb915db0a47aef075c3936af1969cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("樂透號碼產生器")]
 [assembly: System.Reflection.AssemblyTitleAttribute("樂透號碼產生器")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
