@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "汽車維修服務管理系統/1.0.0": {
+        "runtime": {
+          "汽車維修服務管理系統.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "汽車維修服務管理系統/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

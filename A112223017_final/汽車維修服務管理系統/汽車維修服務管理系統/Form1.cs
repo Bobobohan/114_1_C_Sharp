@@ -66,7 +66,7 @@ namespace 汽車維修服務管理系統
 
             if (result == DialogResult.Yes)
             {
-                // 先執行計算以確保數據最新（防止使用者更改選項後未計算直接存檔）
+                // 先執行計算以確保數據最新，防止使用者更改選項後未計算直接存檔
                 calculateButton.PerformClick();
 
                 if (SaveServiceDetailsToFile())
