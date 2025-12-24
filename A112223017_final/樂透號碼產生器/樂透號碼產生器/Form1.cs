@@ -57,8 +57,7 @@ namespace 樂透號碼產生器
                 }
             }
         }
-                
-        // 離開按鈕事件
+                        
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -101,9 +100,7 @@ namespace 樂透號碼產生器
             Array.Sort(userNumbers);
         }
 
-        // ==========================================
-        // 核心方法：檔案讀取與驗證
-        // ==========================================
+        
         private bool ReadWinningNumbers(string path)
         {
             StreamReader sr = null;
@@ -172,10 +169,7 @@ namespace 樂透號碼產生器
                 }
             }
         }
-
-        // ==========================================
-        // 核心方法：比對與獎項判定
-        // ==========================================
+        
         private void CompareAndShowResult()
         {
             int matchCount = 0;
@@ -187,7 +181,7 @@ namespace 樂透號碼產生器
                 // 先重置標籤顏色
                 numberLabels[i].BackColor = Color.LightYellow;
 
-                for (int j = 0; j < 5; j++) // 開獎號碼迴圈
+                for (int j = 0; j < 5; j++)
                 {
                     if (userNumbers[i] == winningNumbers[j])
                     {
@@ -200,7 +194,6 @@ namespace 樂透號碼產生器
                 }
             }
 
-            // 判定獎項等級
             string prizeMessage = "";
             if (matchCount == 5) prizeMessage = "頭獎 (全中！)";
             else if (matchCount == 4) prizeMessage = "貳獎";
@@ -208,12 +201,10 @@ namespace 樂透號碼產生器
             else if (matchCount == 2) prizeMessage = "肆獎";
             else prizeMessage = "沒中獎，再接再厲！";
 
-            // 顯示最終結果
             label_result.Text = $"中獎號碼數：{matchCount}\n" +
                              $"中獎號碼：{matchedNumbers}\n" +
                              $"結果：{prizeMessage}";
 
-            // 彈出 MessageBox 做為額外提示
             MessageBox.Show(prizeMessage, "對獎結果", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
