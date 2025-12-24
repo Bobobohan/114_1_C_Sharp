@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("汽車維修服務管理系統")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b52f86b21f33b78f927adced7c7c83423bf40c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+813be8f1d44ab7df1719a15b9294c0794f6052f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("汽車維修服務管理系統")]
 [assembly: System.Reflection.AssemblyTitleAttribute("汽車維修服務管理系統")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

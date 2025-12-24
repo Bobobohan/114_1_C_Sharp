@@ -29,32 +29,32 @@
         private void InitializeComponent()
         {
             groupBox_機油和潤滑 = new GroupBox();
+            chkLubeJob = new CheckBox();
+            chkOilChange = new CheckBox();
             groupBox_cleaning = new GroupBox();
+            chkTransmissionFlush = new CheckBox();
+            chkRadiatorFlush = new CheckBox();
             groupBox1 = new GroupBox();
+            chkTireRotation = new CheckBox();
+            chkMuffler = new CheckBox();
+            chkInspection = new CheckBox();
             groupBox2 = new GroupBox();
-            txtParts = new TextBox();
+            label_salery = new Label();
+            label_fee = new Label();
             txtLabor = new TextBox();
+            txtParts = new TextBox();
             groupBox3 = new GroupBox();
-            lblServiceLaborCost = new Label();
-            lblPartsCost = new Label();
-            lblTaxCost = new Label();
+            label10 = new Label();
+            label9 = new Label();
+            label8 = new Label();
+            label7 = new Label();
             lblTotalCost = new Label();
+            lblTaxCost = new Label();
+            lblPartsCost = new Label();
+            lblServiceLaborCost = new Label();
             calculateButton = new Button();
             clearButton = new Button();
             exitButton = new Button();
-            label7 = new Label();
-            label8 = new Label();
-            label9 = new Label();
-            label10 = new Label();
-            chkOilChange = new CheckBox();
-            chkLubeJob = new CheckBox();
-            chkRadiatorFlush = new CheckBox();
-            chkTransmissionFlush = new CheckBox();
-            chkInspection = new CheckBox();
-            chkMuffler = new CheckBox();
-            chkTireRotation = new CheckBox();
-            label_fee = new Label();
-            label_salery = new Label();
             groupBox_機油和潤滑.SuspendLayout();
             groupBox_cleaning.SuspendLayout();
             groupBox1.SuspendLayout();
@@ -73,6 +73,26 @@
             groupBox_機油和潤滑.TabStop = false;
             groupBox_機油和潤滑.Text = "機油和潤滑";
             // 
+            // chkLubeJob
+            // 
+            chkLubeJob.AutoSize = true;
+            chkLubeJob.Location = new Point(19, 62);
+            chkLubeJob.Name = "chkLubeJob";
+            chkLubeJob.Size = new Size(191, 27);
+            chkLubeJob.TabIndex = 10;
+            chkLubeJob.Text = "潤滑保養 - NT$540";
+            chkLubeJob.UseVisualStyleBackColor = true;
+            // 
+            // chkOilChange
+            // 
+            chkOilChange.AutoSize = true;
+            chkOilChange.Location = new Point(20, 29);
+            chkOilChange.Name = "chkOilChange";
+            chkOilChange.Size = new Size(191, 27);
+            chkOilChange.TabIndex = 9;
+            chkOilChange.Text = "更換機油 - NT$780";
+            chkOilChange.UseVisualStyleBackColor = true;
+            // 
             // groupBox_cleaning
             // 
             groupBox_cleaning.Controls.Add(chkTransmissionFlush);
@@ -83,6 +103,26 @@
             groupBox_cleaning.TabIndex = 2;
             groupBox_cleaning.TabStop = false;
             groupBox_cleaning.Text = "清洗服務";
+            // 
+            // chkTransmissionFlush
+            // 
+            chkTransmissionFlush.AutoSize = true;
+            chkTransmissionFlush.Location = new Point(6, 62);
+            chkTransmissionFlush.Name = "chkTransmissionFlush";
+            chkTransmissionFlush.Size = new Size(223, 27);
+            chkTransmissionFlush.TabIndex = 10;
+            chkTransmissionFlush.Text = "變速箱清洗 - NT$2,400";
+            chkTransmissionFlush.UseVisualStyleBackColor = true;
+            // 
+            // chkRadiatorFlush
+            // 
+            chkRadiatorFlush.AutoSize = true;
+            chkRadiatorFlush.Location = new Point(6, 29);
+            chkRadiatorFlush.Name = "chkRadiatorFlush";
+            chkRadiatorFlush.Size = new Size(191, 27);
+            chkRadiatorFlush.TabIndex = 10;
+            chkRadiatorFlush.Text = "水箱清洗 - NT$900";
+            chkRadiatorFlush.UseVisualStyleBackColor = true;
             // 
             // groupBox1
             // 
@@ -95,6 +135,36 @@
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
             groupBox1.Text = "其他服務";
+            // 
+            // chkTireRotation
+            // 
+            chkTireRotation.AutoSize = true;
+            chkTireRotation.Location = new Point(19, 109);
+            chkTireRotation.Name = "chkTireRotation";
+            chkTireRotation.Size = new Size(191, 27);
+            chkTireRotation.TabIndex = 10;
+            chkTireRotation.Text = "輪胎換位 - NT$600";
+            chkTireRotation.UseVisualStyleBackColor = true;
+            // 
+            // chkMuffler
+            // 
+            chkMuffler.AutoSize = true;
+            chkMuffler.Location = new Point(20, 76);
+            chkMuffler.Name = "chkMuffler";
+            chkMuffler.Size = new Size(223, 27);
+            chkMuffler.TabIndex = 10;
+            chkMuffler.Text = "更換消音器 - NT$3,000";
+            chkMuffler.UseVisualStyleBackColor = true;
+            // 
+            // chkInspection
+            // 
+            chkInspection.AutoSize = true;
+            chkInspection.Location = new Point(20, 43);
+            chkInspection.Name = "chkInspection";
+            chkInspection.Size = new Size(155, 27);
+            chkInspection.TabIndex = 10;
+            chkInspection.Text = "檢驗 - NT$450";
+            chkInspection.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
@@ -109,12 +179,23 @@
             groupBox2.TabStop = false;
             groupBox2.Text = "零件和工時";
             // 
-            // txtParts
+            // label_salery
             // 
-            txtParts.Location = new Point(142, 50);
-            txtParts.Name = "txtParts";
-            txtParts.Size = new Size(74, 30);
-            txtParts.TabIndex = 6;
+            label_salery.AutoSize = true;
+            label_salery.Location = new Point(6, 99);
+            label_salery.Name = "label_salery";
+            label_salery.Size = new Size(99, 23);
+            label_salery.TabIndex = 10;
+            label_salery.Text = "工時 (小時)";
+            // 
+            // label_fee
+            // 
+            label_fee.AutoSize = true;
+            label_fee.Location = new Point(6, 50);
+            label_fee.Name = "label_fee";
+            label_fee.Size = new Size(134, 23);
+            label_fee.TabIndex = 9;
+            label_fee.Text = "零件費用 (NT$)";
             // 
             // txtLabor
             // 
@@ -122,6 +203,13 @@
             txtLabor.Name = "txtLabor";
             txtLabor.Size = new Size(74, 30);
             txtLabor.TabIndex = 7;
+            // 
+            // txtParts
+            // 
+            txtParts.Location = new Point(142, 50);
+            txtParts.Name = "txtParts";
+            txtParts.Size = new Size(74, 30);
+            txtParts.TabIndex = 6;
             // 
             // groupBox3
             // 
@@ -140,32 +228,37 @@
             groupBox3.TabStop = false;
             groupBox3.Text = "費用摘要";
             // 
-            // lblServiceLaborCost
+            // label10
             // 
-            lblServiceLaborCost.AutoSize = true;
-            lblServiceLaborCost.Location = new Point(19, 45);
-            lblServiceLaborCost.Name = "lblServiceLaborCost";
-            lblServiceLaborCost.Size = new Size(100, 23);
-            lblServiceLaborCost.TabIndex = 6;
-            lblServiceLaborCost.Text = "服務與工資";
+            label10.BorderStyle = BorderStyle.Fixed3D;
+            label10.Location = new Point(157, 159);
+            label10.Name = "label10";
+            label10.Size = new Size(207, 34);
+            label10.TabIndex = 9;
             // 
-            // lblPartsCost
+            // label9
             // 
-            lblPartsCost.AutoSize = true;
-            lblPartsCost.Location = new Point(19, 82);
-            lblPartsCost.Name = "lblPartsCost";
-            lblPartsCost.Size = new Size(46, 23);
-            lblPartsCost.TabIndex = 7;
-            lblPartsCost.Text = "零件";
+            label9.BorderStyle = BorderStyle.Fixed3D;
+            label9.Location = new Point(157, 120);
+            label9.Name = "label9";
+            label9.Size = new Size(207, 34);
+            label9.TabIndex = 9;
             // 
-            // lblTaxCost
+            // label8
             // 
-            lblTaxCost.AutoSize = true;
-            lblTaxCost.Location = new Point(20, 120);
-            lblTaxCost.Name = "lblTaxCost";
-            lblTaxCost.Size = new Size(99, 23);
-            lblTaxCost.TabIndex = 7;
-            lblTaxCost.Text = "稅金 (零件)";
+            label8.BorderStyle = BorderStyle.Fixed3D;
+            label8.Location = new Point(157, 82);
+            label8.Name = "label8";
+            label8.Size = new Size(207, 34);
+            label8.TabIndex = 9;
+            // 
+            // label7
+            // 
+            label7.BorderStyle = BorderStyle.Fixed3D;
+            label7.Location = new Point(157, 44);
+            label7.Name = "label7";
+            label7.Size = new Size(207, 34);
+            label7.TabIndex = 8;
             // 
             // lblTotalCost
             // 
@@ -176,6 +269,33 @@
             lblTotalCost.TabIndex = 7;
             lblTotalCost.Text = "總費用";
             // 
+            // lblTaxCost
+            // 
+            lblTaxCost.AutoSize = true;
+            lblTaxCost.Location = new Point(20, 120);
+            lblTaxCost.Name = "lblTaxCost";
+            lblTaxCost.Size = new Size(99, 23);
+            lblTaxCost.TabIndex = 7;
+            lblTaxCost.Text = "稅金 (零件)";
+            // 
+            // lblPartsCost
+            // 
+            lblPartsCost.AutoSize = true;
+            lblPartsCost.Location = new Point(19, 82);
+            lblPartsCost.Name = "lblPartsCost";
+            lblPartsCost.Size = new Size(46, 23);
+            lblPartsCost.TabIndex = 7;
+            lblPartsCost.Text = "零件";
+            // 
+            // lblServiceLaborCost
+            // 
+            lblServiceLaborCost.AutoSize = true;
+            lblServiceLaborCost.Location = new Point(19, 45);
+            lblServiceLaborCost.Name = "lblServiceLaborCost";
+            lblServiceLaborCost.Size = new Size(100, 23);
+            lblServiceLaborCost.TabIndex = 6;
+            lblServiceLaborCost.Text = "服務與工資";
+            // 
             // calculateButton
             // 
             calculateButton.Location = new Point(68, 688);
@@ -184,6 +304,7 @@
             calculateButton.TabIndex = 6;
             calculateButton.Text = "計算總額";
             calculateButton.UseVisualStyleBackColor = true;
+            calculateButton.Click += calculateButton_Click;
             // 
             // clearButton
             // 
@@ -193,6 +314,7 @@
             clearButton.TabIndex = 7;
             clearButton.Text = "清除";
             clearButton.UseVisualStyleBackColor = true;
+            clearButton.Click += clearButton_Click;
             // 
             // exitButton
             // 
@@ -202,126 +324,7 @@
             exitButton.TabIndex = 8;
             exitButton.Text = "離開";
             exitButton.UseVisualStyleBackColor = true;
-            // 
-            // label7
-            // 
-            label7.BorderStyle = BorderStyle.Fixed3D;
-            label7.Location = new Point(157, 44);
-            label7.Name = "label7";
-            label7.Size = new Size(207, 34);
-            label7.TabIndex = 8;
-            // 
-            // label8
-            // 
-            label8.BorderStyle = BorderStyle.Fixed3D;
-            label8.Location = new Point(157, 82);
-            label8.Name = "label8";
-            label8.Size = new Size(207, 34);
-            label8.TabIndex = 9;
-            // 
-            // label9
-            // 
-            label9.BorderStyle = BorderStyle.Fixed3D;
-            label9.Location = new Point(157, 120);
-            label9.Name = "label9";
-            label9.Size = new Size(207, 34);
-            label9.TabIndex = 9;
-            // 
-            // label10
-            // 
-            label10.BorderStyle = BorderStyle.Fixed3D;
-            label10.Location = new Point(157, 159);
-            label10.Name = "label10";
-            label10.Size = new Size(207, 34);
-            label10.TabIndex = 9;
-            // 
-            // chkOilChange
-            // 
-            chkOilChange.AutoSize = true;
-            chkOilChange.Location = new Point(20, 29);
-            chkOilChange.Name = "chkOilChange";
-            chkOilChange.Size = new Size(191, 27);
-            chkOilChange.TabIndex = 9;
-            chkOilChange.Text = "更換機油 - NT$780";
-            chkOilChange.UseVisualStyleBackColor = true;
-            // 
-            // chkLubeJob
-            // 
-            chkLubeJob.AutoSize = true;
-            chkLubeJob.Location = new Point(19, 62);
-            chkLubeJob.Name = "chkLubeJob";
-            chkLubeJob.Size = new Size(191, 27);
-            chkLubeJob.TabIndex = 10;
-            chkLubeJob.Text = "潤滑保養 - NT$540";
-            chkLubeJob.UseVisualStyleBackColor = true;
-            // 
-            // chkRadiatorFlush
-            // 
-            chkRadiatorFlush.AutoSize = true;
-            chkRadiatorFlush.Location = new Point(6, 29);
-            chkRadiatorFlush.Name = "chkRadiatorFlush";
-            chkRadiatorFlush.Size = new Size(191, 27);
-            chkRadiatorFlush.TabIndex = 10;
-            chkRadiatorFlush.Text = "水箱清洗 - NT$900";
-            chkRadiatorFlush.UseVisualStyleBackColor = true;
-            // 
-            // chkTransmissionFlush
-            // 
-            chkTransmissionFlush.AutoSize = true;
-            chkTransmissionFlush.Location = new Point(6, 62);
-            chkTransmissionFlush.Name = "chkTransmissionFlush";
-            chkTransmissionFlush.Size = new Size(223, 27);
-            chkTransmissionFlush.TabIndex = 10;
-            chkTransmissionFlush.Text = "變速箱清洗 - NT$2,400";
-            chkTransmissionFlush.UseVisualStyleBackColor = true;
-            // 
-            // chkInspection
-            // 
-            chkInspection.AutoSize = true;
-            chkInspection.Location = new Point(20, 43);
-            chkInspection.Name = "chkInspection";
-            chkInspection.Size = new Size(155, 27);
-            chkInspection.TabIndex = 10;
-            chkInspection.Text = "檢驗 - NT$450";
-            chkInspection.UseVisualStyleBackColor = true;
-            // 
-            // chkMuffler
-            // 
-            chkMuffler.AutoSize = true;
-            chkMuffler.Location = new Point(20, 76);
-            chkMuffler.Name = "chkMuffler";
-            chkMuffler.Size = new Size(223, 27);
-            chkMuffler.TabIndex = 10;
-            chkMuffler.Text = "更換消音器 - NT$3,000";
-            chkMuffler.UseVisualStyleBackColor = true;
-            // 
-            // chkTireRotation
-            // 
-            chkTireRotation.AutoSize = true;
-            chkTireRotation.Location = new Point(19, 109);
-            chkTireRotation.Name = "chkTireRotation";
-            chkTireRotation.Size = new Size(191, 27);
-            chkTireRotation.TabIndex = 10;
-            chkTireRotation.Text = "輪胎換位 - NT$600";
-            chkTireRotation.UseVisualStyleBackColor = true;
-            // 
-            // label_fee
-            // 
-            label_fee.AutoSize = true;
-            label_fee.Location = new Point(6, 50);
-            label_fee.Name = "label_fee";
-            label_fee.Size = new Size(134, 23);
-            label_fee.TabIndex = 9;
-            label_fee.Text = "零件費用 (NT$)";
-            // 
-            // label_salery
-            // 
-            label_salery.AutoSize = true;
-            label_salery.Location = new Point(6, 99);
-            label_salery.Name = "label_salery";
-            label_salery.Size = new Size(99, 23);
-            label_salery.TabIndex = 10;
-            label_salery.Text = "工時 (小時)";
+            exitButton.Click += exitButton_Click;
             // 
             // Form1
             // 
